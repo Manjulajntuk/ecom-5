@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "..\\jsamazona"
+		},
+		{
+			"path": "..\\secondtry"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5502,
+		"liveServer.settings.multiRootWorkspaceName": "secondtry",
+		"git.allowForcePush": true
+	}
+}
